@@ -85,8 +85,6 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Victoria,BC"
   employer         : "University of Victoria"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mkurzner@uvic.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
