@@ -16,7 +16,13 @@ Words and words
 
 Nuclear Star Clusters
 ======
-![Nuclei Mass fraction in Virgo](/images/max_nsc_fractions_virgo.pdf)
+Words, words, words, words, words, punchline!
+<div style="text-align:center;">
+  <img src="/images/max_nsc_fractions_virgo.png" alt="" style="width:50%; max-width:100; height:auto;">
+</div>
+
+
+
 
 Machine Learning Applications to Galaxy Morphology
 ------
