@@ -11,11 +11,12 @@ Hi and welcome to my website! My name is Max Kuzner and I am currently a PhD Can
 
 Visual and Quantitaive Morphologies of the Virgo Cluster
 ======
-![Description of CMD](/images/042324_Combined_CMDs.png)
+Words and words
+![Combined CMD](/images/042324_Combined_CMDs.png)
 
 Nuclear Star Clusters
 ======
-Under construction!
+![Nuclei Mass fraction in Virgo](/images/max_nsc_fractions_virgo.pdf)
 
 Machine Learning Applications to Galaxy Morphology
 ------
