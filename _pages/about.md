@@ -25,7 +25,8 @@ I also am interested in understanding the formation of nuclear star clusters in 
 Colour Images for Virgo Cluster Galaxies
 ------
 As part of my work in determining visual morphologies of galaxies in the Virgo cluster I have created colour images with the ugi images for the entire NGVS. At the moment these images only availble by request but in the near future they will be made available to all members of the NGVS team. In the meantime, should you be interested in using any of these images in your research or a talk feel free to get in touch!
-(/images/VCC 92.jpeg)
+
+![Colour Image](/images/VCC 92.jpeg)
 
 Machine Learning Applications to Galaxy Morphology
 ------
