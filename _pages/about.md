@@ -15,6 +15,8 @@ I am in the final stages of submitting a paper on the visual and quantitiative m
 My work combines traditional visual morphologies and the full set of catalogue measurements such as magnitudes, colours, sizes and projected density of all galaxies in the cluster with non-parametric morphologies measured with [statmorph]([url](https://statmorph.readthedocs.io/en/latest/)) to complete the deepest morphological census of the Virgo cluster undertaken so far!
 ![Combined CMD](/images/042324_Combined_CMDs.png)
 
+
+
 Nuclear Star Clusters
 ======
 I also am interested in understanding the formation of nuclear star clusters in dense cluster environments and what these formation processes can tell us about stellar and galactic evolution across cosmic time and in varying environments.
@@ -26,7 +28,7 @@ Colour Images for Virgo Cluster Galaxies
 ------
 As part of my work in determining visual morphologies of galaxies in the Virgo cluster I have created colour images with the ugi images for the entire NGVS. At the moment these images only availble by request but in the near future they will be made available to all members of the NGVS team. In the meantime, should you be interested in using any of these images in your research or a talk feel free to get in touch!
 
-![Colour Image](/images/VCC 92.jpeg)
+![Colour Image](/images/VCC92.jpeg)
 
 Machine Learning Applications to Galaxy Morphology
 ------
