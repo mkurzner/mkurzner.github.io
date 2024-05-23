@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here]([url](https://maxkurzner.com/files/KurznerCV_2024.pdf))
+You can view my CV [here]([url](https://maxkurzner.com/KurznerCV_2024.pdf))
