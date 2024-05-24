@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here](/KurznerCV_2024.pdf)
-
-
+You can view my CV [here]({{ site.baseurl }}/KurznerCV_2024.pdf)
