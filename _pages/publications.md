@@ -15,3 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
+
+<div class="under-construction">
+  <h2>Page Under Construction</h2>
+  <p>Under construction. Check back soon for updates!</p>
+</div>
