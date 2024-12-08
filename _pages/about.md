@@ -33,7 +33,7 @@ As part of my work in determining visual morphologies of galaxies in the Virgo c
 
 Machine Learning Applications to Galaxy Morphology
 ------
-I also have dabbled in machine learning applications to galaxy morphology. I am specifically interested in the ability to use classical machine learning networks on tabular data to predict galaxy morhpolgoical properties and how these tools can be used in conjunction with image based applications such as convolutional neural networks. A key point that will be addressed in my morphologies paper is the utiltiy in highly detailed galaxy samples for use in better training the upcoming generation of machine learning models in the era of large survey science in astronomy.
+I also have dabbled in machine learning applications to galaxy morphology. I am specifically interested in the ability to use classical machine learning networks on tabular data to predict galaxy morphological properties and how these tools can be used in conjunction with image based applications such as convolutional neural networks. A key point that will be addressed in my morphologies paper is the utiltiy in highly detailed galaxy samples for use in better training the upcoming generation of machine learning models in the era of large survey science in astronomy.
 
 
 
