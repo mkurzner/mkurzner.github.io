@@ -11,7 +11,7 @@ Hi and welcome to my website! My name is Max Kuzner and I am currently a PhD Can
 
 Visual and Quantitaive Morphologies of the Virgo Cluster
 ======
-I am in the final stages of submitting a paper on the visual and quantitiative morphologies of all galaxies in the Virgo cluster as imaged through the <a href="https://www.ngvs-astro.org/" target="_blank">NGVS</a>.
+I am in the final stages of submitting a paper on the visual and quantitative morphologies of all galaxies in the Virgo cluster as imaged through the <a href="https://www.ngvs-astro.org/" target="_blank">NGVS</a>.
 My work combines traditional visual morphologies and the full set of catalogue measurements such as magnitudes, colours, sizes and projected density of all galaxies in the cluster with non-parametric morphologies measured with <a href="https://statmorph.readthedocs.io/en/latest/" target="_blank">statmorph</a>
  to complete the deepest morphological census of the Virgo cluster undertaken so far!
 ![Combined CMD](/images/042324_Combined_CMDs.png)
