@@ -1,4 +1,3 @@
-
 ---
 title: "The Anatomy of Galaxies: Insights into Galaxy Morphology from the Virgo Cluster"
 collection: talks
