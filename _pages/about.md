@@ -13,7 +13,9 @@ Visual and Quantitative Morphologies of the Virgo Cluster
 ======
 I recently submitted a paper on the visual and quantitative morphologies of all galaxies in the Virgo cluster as imaged through the <a href="https://www.ngvs-astro.org/" target="_blank">NGVS</a>.
 My work combines traditional visual morphologies and the full set of catalogue measurements— such as magnitudes, colours, sizes, and projected density— of all galaxies in the cluster with non-parametric morphologies measured with <a href="https://statmorph.readthedocs.io/en/latest/" target="_blank">statmorph</a>
-to complete the deepest morphological census of the Virgo Cluster undertaken so far! Stay tuned for this paper in the upcoming months!
+to complete the deepest morphological census of the Virgo Cluster undertaken so far! 
+
+The NGVS Morphology Paper is complete and has been accepted to the Astrophysical Journal! A preprint of the paper is now avaiable on the <a href="https://arxiv.org/abs/2510.20944" target="_blank">arXiv</a>
 ![Combined CMD](/images/042324_Combined_CMDs.png)
 
 
