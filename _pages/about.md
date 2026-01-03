@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi, and welcome to my website! My name is Max Kuzner, and I am currently a PhD candidate in Astrophysics at the University of Victoria, focusing on galaxy morphology. If you are here after meeting me in person or hearing me give a talk, let's get in touch - all of my contact info is on the sidebar on the left! If you have found your way here another way, then kudos to you, and please do stick around! Now that we’ve gotten the basics out of the way, allow me to tell you a bit more about what I’m currently working on!
+I’m Max Kurzner, a PhD candidate in astrophysics at the University of Victoria studying galaxy morphology and evolution in the Virgo Cluster. My research combines large-scale astronomical imaging, statistical modeling, and machine learning to characterize galaxy structure, evaluate classification systems, and understand their limitations under heterogeneous data quality and distribution shift. Alongside my scientific work, I focus on reproducible analysis pipelines, rigorous model evaluation, and diagnosing failure modes, skills I aim to apply to broader empirical machine learning research and safety.
 
 Visual and Quantitative Morphologies of the Virgo Cluster
 ======
-I recently submitted a paper on the visual and quantitative morphologies of all galaxies in the Virgo cluster as imaged through the <a href="https://www.ngvs-astro.org/" target="_blank">NGVS</a>.
-My work combines traditional visual morphologies and the full set of catalogue measurements— such as magnitudes, colours, sizes, and projected density— of all galaxies in the cluster with non-parametric morphologies measured with <a href="https://statmorph.readthedocs.io/en/latest/" target="_blank">statmorph</a>
-to complete the deepest morphological census of the Virgo Cluster undertaken so far! 
+I recently led a comprehensive study of galaxy morphologies in the Virgo Cluster using imaging from the [Next Generation Virgo Cluster Survey (NGVS)](https://www.ngvs-astro.org/). This work combines traditional visual classifications with a broad suite of catalog measurements, including magnitudes, colours, sizes, and environmental density, alongside non-parametric morphology metrics measured with [statmorph](https://statmorph.readthedocs.io/en/latest/).
 
-The NGVS Morphology Paper is complete and has been accepted to the Astrophysical Journal! A preprint of the paper is now avaiable on the <a href="https://arxiv.org/abs/2510.20944" target="_blank">arXiv</a>
-![Combined CMD](/images/042324_Combined_CMDs.png)
+Together, these data form the deepest and most complete morphological census of Virgo galaxies to date. The NGVS Morphology Paper has been accepted to *The Astrophysical Journal*, and is available [here](https://iopscience.iop.org/article/10.3847/1538-3881/ae1616).
 
 
+Machine Learning Applications to Galaxy Morphology
+------
+My work applies machine learning to galaxy morphology using both structured catalog data and raw imaging. I have built and evaluated classical models on tabular features alongside convolutional neural networks trained on images, with a focus on how these approaches complement one another under label scarcity and domain shift. A key result of this work is demonstrating how high-quality, human-curated labels can substantially improve model reliability and generalization, particularly in regimes where automated classification must scale to millions or billions of objects. This research has shaped my broader interest in model evaluation, robustness, and safety-relevant failure modes in deployed ML systems.
 
-Nuclear Star Clusters
-======
-I also am interested in understanding the formation of nuclear star clusters in dense cluster environments and what these formation processes can tell us about stellar and galactic evolution across cosmic time and in varying environments.
+
+## Nuclear Star Clusters
+
+I also study the formation and evolution of nuclear star clusters in dense environments, and what these systems reveal about stellar and galactic evolution across cosmic time. This work combines photometric modeling, statistical inference, and population-level analysis to connect small-scale nuclear structures to their host galaxies and environments.
+
 <div style="text-align:center;">
-  <img src="/images/max_nsc_fractions_virgo.png" alt="" style="width:50%; max-width:100%; height:auto;">
+  <img src="/images/max_nsc_fractions_virgo.png" alt="NSC fractions in Virgo" style="width:50%; max-width:100%; height:auto;">
 </div>
 
 Colour Images for Virgo Cluster Galaxies
@@ -32,11 +34,6 @@ Colour Images for Virgo Cluster Galaxies
 As part of my work in determining visual morphologies of galaxies in the Virgo cluster I have created colour images with the ugi images for the entire NGVS. At the moment, these images are only available by request, but in the near future, they will be made accessible to all members of the NGVS team. In the meantime, should you be interested in using any of these images in your research or a talk, feel free to get in touch!
 
 ![Colour Image](/images/NGC4501_VCC1401.jpeg)
-
-Machine Learning Applications to Galaxy Morphology
-------
-I also have dabbled in machine learning applications to galaxy morphology. I am specifically interested in the ability to use classical machine learning networks on tabular data to predict galaxy morphological properties and how these tools can be used in conjunction with image based applications such as convolutional neural networks. A key point that will be addressed in my morphology paper is the utility of highly detailed galaxy samples for better training the next generation of machine learning models in the era of large survey science in astronomy.
-
 
 
 
