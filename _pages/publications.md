@@ -40,6 +40,6 @@ Summary: Evaluation of CNN-based transfer learning and fine-tuning strategies un
 
 ## Notes
 
-If you’re interested in the machine learning side of my work, I also maintain curated code exampleshere:
+If you’re interested in the machine learning side of my work, I also maintain curated code examples here:
 - GitHub: https://github.com/mkurzner
 - ZooBot fine-tuning + evaluation example: https://github.com/mkurzner/zoobot-ngvs-finetune
