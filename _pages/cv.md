@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-  You can download or open my CV in a new tab here:
-  <a href="{{ site.baseurl }}//MaxKurznerCV2025.pdf" target="_blank" rel="noopener">
-    Download CV (PDF)
-  </a>
-</p>
 
 <div style="width:100%; height:900px; border:1px solid #ddd;">
   <iframe
