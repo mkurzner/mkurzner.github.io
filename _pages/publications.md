@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below are selected publications and manuscripts. For the most up-to-date list, see my Google Scholar profile:
-- [Google Scholar:](https://scholar.google.com/citations?user=sV-IqOwAAAAJ&hl=en)
+Below are selected publications and manuscripts. For the most up-to-date list, see my Google Scholar [profile:](https://scholar.google.com/citations?user=sV-IqOwAAAAJ&hl=en)
 
 ## Refereed journal articles
 
