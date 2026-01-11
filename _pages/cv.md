@@ -11,7 +11,7 @@ redirect_from:
 
 <p>
   You can download or open my CV in a new tab here:
-  <a href="{{ site.baseurl }}//MaxKurznerCV2025.pdff" target="_blank" rel="noopener">
+  <a href="{{ site.baseurl }}//MaxKurznerCV2025.pdf" target="_blank" rel="noopener">
     Download CV (PDF)
   </a>
 </p>
