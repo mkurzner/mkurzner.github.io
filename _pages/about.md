@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Max Kurzner, a PhD candidate in astrophysics at the University of Victoria studying galaxy morphology and evolution in the Virgo Cluster. My research combines large-scale astronomical imaging, statistical modeling, and machine learning to characterize galaxy structure, evaluate classification systems, and understand their limitations under heterogeneous data quality and distribution shift. Alongside my scientific work, I focus on reproducible analysis pipelines, rigorous model evaluation, and diagnosing failure modes, skills I aim to apply to broader empirical machine learning research and safety.
+I’m Max Kurzner, a PhD candidate in astrophysics at the University of Victoria studying galaxy morphology and evolution in the Virgo Cluster. My research combines large-scale astronomical imaging, statistical modeling, and machine learning to characterize galaxy structure, evaluate classification systems, and understand their limitations under heterogeneous data quality and distribution shift. Alongside my scientific work, I focus on reproducible analysis pipelines, rigorous model evaluation, and diagnosing failure modes, skills I aim to apply more broadly to a career in data science. I am an expert in sifting through complex, messy and unstructure data and turning into real insights and understanding. Please get in touch if you would like to discuss anything related to galaxy evolution as well as data science and data insights for the greater good!
 
 Visual and Quantitative Morphologies of the Virgo Cluster
 ======
