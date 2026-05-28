@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="width:100%; height:900px; border:1px solid #ddd;">
   <iframe
-    src="{{ site.baseurl }}/MaxKurznerCV2025.pdf"
+    src="{{ site.baseurl }}/MaxKurznerResume2026.pdf"
     width="100%"
     height="100%"
     style="border:none;">
